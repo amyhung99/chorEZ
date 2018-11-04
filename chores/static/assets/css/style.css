@@ -81,7 +81,11 @@ nav a {
 
 h1 {
 	font-family: avenir;
-	font-size: 60px;
+	font-size: 50px;
 	font-weight: bold;
+}
+
+#task-container {
+	margin-left: 60px;
 }
 
