@@ -39,6 +39,7 @@ nav a {
 	cursor: pointer;
 }
 
+/*individual style*/
 
 
 #container{
@@ -115,8 +116,12 @@ nav a {
   justify-content: center;
   display: flex;
   flex-direction: column;
+	transition: all .2s ease-in-out;
 
 
+}
+.grid-item:hover {
+	transform: scale(1.1);
 }
 
 #content{
